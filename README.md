@@ -1,5 +1,5 @@
 ### About me
-<img align="left" height="150" src="https://www.willamowius.de/images/jan.jpg">
+<!--<img align="left" height="150" src="https://www.willamowius.de/images/jan.jpg">-->
 
 I provide consulting, development and support related to H.323 and WebRTC VoIP and video conferencing, the GNU Gatekeeper and H323Plus.
 
